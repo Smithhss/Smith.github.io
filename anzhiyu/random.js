@@ -1,1 +1,1 @@
-var posts=["2022/12/08/2022-12-08-Free Programming Books/","2022/12/15/2022-12-15-文案2/","2022/12/01/2022-12-4-文案1/","2022/12/07/2022-12-07-图书推荐/","2023/08/04/2023-8-4-vue/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
+var posts=["2022/12/15/2022-12-15-文案2/","2022/12/07/2022-12-07-图书推荐/","2022/12/08/2022-12-08-Free Programming Books/","2023/08/04/2023-8-4-vue/","2022/12/01/2022-12-4-文案1/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
